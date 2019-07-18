@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aaeec236-2747-4076-83a6-4ca29bf5409f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/esm/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/esm/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/esm/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/esm/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/esm/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/esm/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/esm/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/esm/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/umd/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/umd/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/umd/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/umd/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/umd/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/umd/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/umd/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/umd/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/umd/poppper.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/static/bootstrap/popper.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/templates/base4.html" beforeDir="false" afterPath="$PROJECT_DIR$/bs4/templates/base4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bs4/templates/bs4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bs4/templates/bs4/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bootstrap" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bs4/templates/bs4/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4228">
+              <caret line="51" column="101" selection-start-line="51" selection-start-column="101" selection-end-line="51" selection-end-column="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bs4/templates/bs4/aboutus.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1535">
+              <caret line="165" column="46" selection-start-line="165" selection-start-column="46" selection-end-line="165" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bs4/templates/bs4/contactus.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1450">
+              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bs4/templates/base4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="20" column="83" selection-start-line="20" selection-start-column="83" selection-end-line="20" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\www\bootstrap\bs4\static\bootstrap\css</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bootstrap/settings.py" />
+        <option value="$PROJECT_DIR$/bootstrap/urls.py" />
+        <option value="$PROJECT_DIR$/static/bootstrap/css/index.css" />
+        <option value="$PROJECT_DIR$/static/css/index.css" />
+        <option value="$PROJECT_DIR$/templates/bs4/about.html" />
+        <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/templates/base4.html" />
+        <option value="$PROJECT_DIR$/templates/bs4/index.html" />
+        <option value="$PROJECT_DIR$/bs4/static/bootstrap/css/style.css" />
+        <option value="$PROJECT_DIR$/bs4/static/css/style.css" />
+        <option value="$PROJECT_DIR$/bs4/urls.py" />
+        <option value="$PROJECT_DIR$/bs4/static/bootstrap/bootstrap/scss/_images.scss" />
+        <option value="$PROJECT_DIR$/bs4/views.py" />
+        <option value="$PROJECT_DIR$/bs4/templates/bs4/contactus1.html" />
+        <option value="$PROJECT_DIR$/bs4/templates/bs4/contactus.html" />
+        <option value="$PROJECT_DIR$/bs4/templates/bs4/aboutus.html" />
+        <option value="$PROJECT_DIR$/bs4/templates/bs4/index.html" />
+        <option value="$PROJECT_DIR$/bs4/templates/base4.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="645" />
+    <option name="width" value="744" />
+    <option name="height" value="693" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="bs4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="bs4" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="bs4" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="bs4" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bs4/static/bootstrap" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\bootstrap\bs4\static\bootstrap" />
+      <recent name="D:\www\bootstrap\bs4\templates\bs4" />
+      <recent name="D:\www\bootstrap\bs4\static\img" />
+      <recent name="D:\www\bootstrap\templates\bs4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\bootstrap\templates\bs4" />
+      <recent name="D:\www\bootstrap\static\bootstrap" />
+      <recent name="D:\www\bootstrap\templates\back" />
+      <recent name="D:\www\bootstrap\templates" />
+      <recent name="D:\www\bootstrap\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="bootstrap" type="Python.DjangoServer" factoryName="Django server">
+      <module name="bootstrap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="bootstrap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaeec236-2747-4076-83a6-4ca29bf5409f" name="Default" comment="" />
+      <created>1563182606979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563182606979</updated>
+      <workItem from="1563285912816" duration="1688000" />
+      <workItem from="1563290372395" duration="162000" />
+      <workItem from="1563291184647" duration="497000" />
+      <workItem from="1563323489497" duration="1153000" />
+      <workItem from="1563324686123" duration="29391000" />
+      <workItem from="1563375289939" duration="2720000" />
+      <workItem from="1563410589377" duration="10539000" />
+      <workItem from="1563426355638" duration="10001000" />
+      <workItem from="1563442504907" duration="4242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60393000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.3125" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5025554" side_tool="true" weight="0.2762557" />
+      <window_info anchor="bottom" id="TypeScript" order="0" weight="0.32879046" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.47431508" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/bootstrap/bootstrap/dist/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/static/bootstrap/bootstrap/dist/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/bootstrap/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="e#633#665#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bootstrap/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/bootstrap/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/bs4/about.html" />
+    <entry file="file://$PROJECT_DIR$/templates/bs4/aboutus.html" />
+    <entry file="file://$PROJECT_DIR$/templates/base4.html" />
+    <entry file="file://$PROJECT_DIR$/templates/bs4/index.html" />
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap/bootstrap/scss/_navbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="244" column="1" selection-start-line="244" selection-start-column="1" selection-end-line="244" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/bs4/templates/bs4/index1.html" />
+    <entry file="file://$PROJECT_DIR$/bs4/static/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap/popper.js/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap-social/bootstrap-social.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="55" column="3" lean-forward="true" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap/bootstrap/dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="5" column="135725" lean-forward="true" selection-start-line="5" selection-start-column="135725" selection-end-line="5" selection-end-column="135725" />
+          <folding>
+            <element signature="e#25768#26002#2" expanded="true" />
+            <element signature="e#26806#26959#1" expanded="true" />
+            <element signature="e#26999#27233#1" expanded="true" />
+            <element signature="e#30239#30515#2" expanded="true" />
+            <element signature="e#31347#31500#1" expanded="true" />
+            <element signature="e#31540#31816#1" expanded="true" />
+            <element signature="e#61072#61259#2" expanded="true" />
+            <element signature="e#61488#61624#2" expanded="true" />
+            <element signature="e#62027#62160#2" expanded="true" />
+            <element signature="e#63642#63795#1" expanded="true" />
+            <element signature="e#75788#76018#2" expanded="true" />
+            <element signature="e#76885#77121#2" expanded="true" />
+            <element signature="e#106714#106891#2" expanded="true" />
+            <element signature="e#106937#107114#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap/bootstrap/scss/_images.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="478" column="1" selection-start-line="478" selection-start-column="1" selection-end-line="478" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap-social/bootstrap-social.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="66" column="61" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap/popper.js/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/templates/bs4/contactus1.html" />
+    <entry file="file://$PROJECT_DIR$/bs4/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/templates/bs4/contactus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/umd/popper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/static/bootstrap/popper.js/dist/esm/popper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/templates/bs4/aboutus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1535">
+          <caret line="165" column="46" selection-start-line="165" selection-start-column="46" selection-end-line="165" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/templates/bs4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4228">
+          <caret line="51" column="101" selection-start-line="51" selection-start-column="101" selection-end-line="51" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/templates/base4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="20" column="83" selection-start-line="20" selection-start-column="83" selection-end-line="20" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

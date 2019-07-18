@@ -1,0 +1,236 @@
+{% extends "base4.html" %}
+{% load static %}
+{% block title %}Ristorante Con Fusion{% endblock %}
+
+{% block content %}
+    <nav class="navbar navbar-expand-sm navbar-dark bg-primary fixed-top">
+    <div class="container">
+
+        {% comment %}<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Navbar">
+                 <span class="navbar-toggler-icon"></span>
+        </button>{% endcomment %}
+
+            <a href="{% url "index" %}" class="navbar-brand mr-auto">
+                <img src="{%  static "img/logo.png" %}" height="30" width="41">
+            </a>
+
+            {% comment %}<div id="Navbar" class="collapse navbar-collapse">{% endcomment %}
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a href="#" class="nav-link">
+                            <span class="fa fa-home fa-lg"></span>Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="{% url 'aboutus' %}" class="nav-link">
+                            <span class="fa fa-info fa-lg"></span>About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">
+                            <span class="fa fa-list fa-lg"></span>Menu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="{% url "contactus" %}" class="nav-link">
+                            <span class="fa fa-address-card fa-lg"></span>Contact Us</a>
+                    </li>
+                </ul>
+            {% comment %}</div>{% endcomment %}
+
+    </div>
+    </nav>
+    <header class="jumbotron">
+        <div class="container">
+            <div class="row row-header">
+                <div class="col-12 col-sm-6">
+                    <h1>Ristorante con Fusion</h1>
+                    <p>We take inspiration from the World's best cuisines, and create a unique fusion experience. Our lipsmacking creations will tickle your culinary senses!</p>
+                </div>
+                <div class="col-12 col-sm-3 align-self-center text-center">
+                    <img src="{% static "img/logo.png" %}" class="img-fluid img-fluid">
+                </div>
+                <div class="col-12 col-sm-3 align-self-center">
+                    <a href="#frmbtn" class="btn btn-block nav-link btn-warning text-white" data-toggle="tooltip"
+                       data-html="true" title="Or Call Us <br>+56 13629864028" data-placement="bottom">
+                        rerserve table
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row row-content align-items-center">
+            <div class="col-12 col-sm-4 col-md-3 order-sm-last">
+                <h3>Our Lipsmacking Culinary Creations</h3>
+            </div>
+{#            第一行和第二行合起来12列 所以  8  9#}
+            <div class="col col-sm-8 order-sm-first col-md-9">
+                <div class="media">
+                    <img src="{% static "img/uthappizza.png" %}" class="d-flex mr-3 img-thumbnail align-self-center">
+                    <div class="media-body">
+                       <h2 class="mt-0">Uthappizza
+                           <spqn class="badge badge-danger mr-3">Hot</spqn>
+                           <spqn class="badge badge-pill badge-secondary">Hot</spqn>
+                       </h2>
+                        <p class="d-none d-sm-block">A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.</p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="row row-content align-items-center">
+            <div class="col-12 col-sm-4 col-md-3 order-sm-first">
+                <h3>This Month's Promotions</h3>
+            </div>
+            <div class="col col-sm-8 col-md-9 order-sm-last">
+                <div class="media">
+
+                    <div class="media-body">
+                        <h2 class="mt-0">
+                            Weekend Grand Buffet
+                            <span class="badge badge-danger">New</span>
+                        </h2>
+                        <p class="d-done d-sm-block">Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person </p>
+
+                    </div>
+                     <img src="{% static "img/buffet.png" %}" class="d-flex mr-3 img-thumbnail align-self-center">
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row row-content align-items-center">
+            <div class="col-12 col-sm-4 col-md-3 order-sm-last">
+                <h3>Meet our Culinary Specialists</h3>
+            </div>
+            <div class="col-12 col-sm-9 col-md-8 order-sm-first">
+                <div class="media">
+                    <img src="{% static "img/alberto.png" %}" class="d-flex mr-3  align-self-center img-thumbnail">
+                    <div class="media-body">
+                         <h2 class="mt-0">Alberto Somayya</h2>
+                        <h4>Executive Chef</h4>
+                        <p class="d-none d-sm-block">Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. </p>
+
+                    </div>
+                </div>
+
+            </div>
+
+    </div>
+        <div class="row row-content align-items-center">
+                <div class="d-none d-sm-block col-sm-2"></div>
+                <div class="col-sm-8">
+                    <div class="card" id="frmbtn">
+                        <h3 class="card-header bg-warning text-white">Rerverse a Tab</h3>
+                        <div class="card-body">
+                             <form  >
+                                <div class="form-group row">
+                                    <label class="col-form-label col-sm-2"> Number Of Guests</label>
+                                    <div class="col-sm-10">
+                                        <div class="form-check form-check-inline">
+                                            <input type="radio" class="form-check-input" name="gr" id="gr1" value="1">
+                                            <label for="gr1" class="form-check-label">1</label>
+                                        </div>
+                                         <div class="form-check form-check-inline">
+                                            <input type="radio" class="form-check-input" name="gr" id="gr2" value="2">
+                                            <label for="gr2" class="form-check-label">2</label>
+                                        </div>
+                                         <div class="form-check form-check-inline">
+                                            <input type="radio" class="form-check-input" name="gr" id="gr3" value="3">
+                                            <label for="gr1" class="form-check-label">3</label>
+                                        </div>
+                                         <div class="form-check form-check-inline">
+                                            <input type="radio" class="form-check-input" name="gr" id="gr4" value="4">
+                                            <label for="gr4" class="form-check-label">4</label>
+                                        </div>
+                                         <div class="form-check form-check-inline">
+                                            <input type="radio" class="form-check-input" name="gr" id="gr5" value="5">
+                                            <label for="gr5" class="form-check-label">5</label>
+                                        </div>
+                                         <div class="form-check form-check-inline">
+                                            <input type="radio" class="form-check-input" name="gr" id="gr6" value="6">
+                                            <label for="gr6" class="form-check-label">6</label>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                 <div class="form-group row">
+                                     <label for="date" class="col-form-label col-12 col-sm-2">Data and Time</label>
+                                     <div class="col-5 col-sm-3">
+                                         <input type="date" class="form-control" id="data" name="date" >
+                                     </div>
+                                     <div class="col-7 col-sm-7">
+                                         <input type="time" class="form-control" id="time" name="data" >
+                                     </div>
+                                 </div>
+                                 <div class="form-group row">
+                                     <div class="offset-sm-2 col-sm-10">
+                                         <button class="btn btn-primary" type="submit">Rerserve</button>
+                                     </div>
+                                 </div>
+
+
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="d-none d-sm-block col-sm-2"></div>
+            </div>
+        </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="row ">
+                <div class="col-4 offset-1 col-sm-2">
+                    <h5>Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Menu</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="col-7 col-sm-5">
+                    <h5>Our Address</h5>
+                    <address>
+		              121, Clear Water Bay Road<br>
+		              Clear Water Bay, Kowloon<br>
+		              HONG KONG<br>
+		              <i class="fa fa-phone fa-lg"></i>: +852 1234 5678<br>
+		              <i class="fa fa-fax fa-lg"></i>: +852 8765 4321<br>
+		              <i class="fa fa-envelope fa-lg"></i>: <a href="mailto:confusion@food.net">confusion@food.net</a>
+		           </address>
+                </div>
+                <div class="col-12 col-sm-4 align-self-center">
+                    <div class="text-center">
+                        <a href="http://google.com/+" class="btn btn-social btn-google">
+                                <i class="fa fa-google-plus"></i>
+                        </a>
+                        <a href="http://www.facebook.com/profile.php?id=" class="btn btn-social btn-facebook">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                        <a href="http://www.linkedin.com/in/" class="btn btn-social btn-linkedin">
+                            <i class="fa fa-linkdin-square"></i>
+                        </a>
+                        <a href="http://twitter.com/">Twitter</a>
+                        <a href="http://youtube.com/">YouTube</a>
+                        <a href="mailto:">Mail</a>
+                    </div>
+                </div>
+           </div>
+           <div class="row justify-content-center">
+                <div class="col-auto text-center">
+                    <p>? Copyright 2018 Ristorante Con Fusion</p>
+                </div>
+           </div>
+        </div>
+    </footer>
+{% endblock %}
+{% block custom-js %}
+    <script>
+            $("[data-toggle='tooltip']").tooltip()
+    </script>
+{% endblock %}

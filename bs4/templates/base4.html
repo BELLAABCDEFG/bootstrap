@@ -1,0 +1,26 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{% static "bootstrap/bootstrap/dist/css/bootstrap.min.css"%}">
+    {% block custom_css %}
+        <link rel="stylesheet" href="{% static "css/style.css" %}">
+        {% comment %}<limk rel="stylesheet" href="{% static "font-awesome/css/font-awesome.min.css" %}"></limk>
+        <link rel="stylesheet" href="{% static "bootstrap-social/assets/css/bootstrap.css" %}">{% endcomment %}
+        <link rel="stylesheet" href="{% static "font-awesome/css/font-awesome.min.css" %}">
+        <link rel="stylesheet" href="{% static "bootstrap-social/bootstrap-social.css" %}">
+    {% endblock %}
+</head>
+<body>
+    {% block content %}
+    {% endblock %}
+    <script src="{% static 'bootstrap/jquery/jquery.min.js' %}"></script>
+      <script src="{% static "bootstrap/popper.js/dist/umd/popper.js" %}"></script>
+    <script src="{% static "bootstrap/bootstrap/dist/js/bootstrap.min.js" %}"></script>
+    {% block custom-js %}
+    {% endblock %}
+</body>
+</html>
